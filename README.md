@@ -3,10 +3,18 @@
 	<h3>Frontend Developer from Moscow</h3>
 </div>
 <div id="" align="left">
-	<div>My stack is:
+	<h3>My stack is:</h3>
+	<div>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="js" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" title="webpack" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="jest" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
+		
 	</div>
 </div>
 
