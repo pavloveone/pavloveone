@@ -3,11 +3,11 @@
 	<h3>Frontend Developer from Moscow</h3>
 </div>
 <div id="" align="left">
-	<ul>My stack is:
-		<li>HTML<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;</li>
-		<li>CSS<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;</li>
-		<li>JS<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="js" width="40" height="40"/>&nbsp;</li>
-	</ul>
+	<div>My stack is:
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="js" width="40" height="40"/>&nbsp;
+	</div>
 </div>
 
 
