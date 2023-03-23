@@ -1,10 +1,10 @@
-<div id="header" align="center">
+<div id="header" align="left">
 	<h1>Hi there, I'm Alex</h1>
 	<h3>Frontend Developer from Moscow</h3>
 </div>
 <div id="" align="left">
 	<h3>My stack is:</h3>
-	<div>
+	<div align="center">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="js" width="40" height="40"/>&nbsp;
