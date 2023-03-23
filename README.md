@@ -1,5 +1,7 @@
-### Hi there 👋
-Hello, my name is Alex. I'm a front-end developer. 
+<div id="header" align="center">
+	<h1>Hi there, I'm Alex</h1>
+	<h3>Frontend Developer from Moscow</h3>
+</div
 My stack is: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
 *![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
